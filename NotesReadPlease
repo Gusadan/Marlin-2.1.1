@@ -1,0 +1,6 @@
+//NOTE START
+- during flashing, "EEPROM Version Error Initialize EEPROM?".
+- Options are "Ignore" and "Reset".
+- Choosed neither options.
+- fix on this link -> https://reprap.org/forum/read.php?415,869818
+//NOTE END
